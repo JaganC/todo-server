@@ -1,7 +1,7 @@
 {
-  "name": "json-server-deploy",
+  "name": "todo-app-server",
   "version": "1.0.0",
-  "description": "Simple json database to deploy to the host of your choice",
+  "description": "Simple Todo App",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
